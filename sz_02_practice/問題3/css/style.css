@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box_a {
+    width: 100px;
+    height: 50px;
+    background-color: #ff0000;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box_b {
+    width: 200px;
+    height: 100px;
+    background-color: #0000ff;
+    padding: 12px;
+    margin:0 6px 0;
+}
+
+.box_c {
+    width: 300px;
+    height: 150px;
+    background-color: #ffa500;
+    padding: 12px;
+
+}
